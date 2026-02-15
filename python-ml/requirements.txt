@@ -1,0 +1,7 @@
+prometheus-api-client
+pandas
+scikit-learn
+pymongo
+flask
+flask-cors
+requests
